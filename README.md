@@ -1,5 +1,5 @@
 # AIES-CCP-Project
-##POTHOLE DETECTOR:
+## POTHOLE DETECTOR:
 This project is a Convolutional Neural Network (CNN)-based pothole detection system built using TensorFlow and OpenCV. It supports pothole detection on images, videos, and real-time webcam feeds.
 
 ## Group Members
@@ -16,9 +16,9 @@ Dania Fazal (CR-22007)
 - Visual display with bounding boxes and labels
 
 ## How to run?
-### 1. git clone https://github.com/your-username/pothole-detection-cnn.git
-   cd pothole-detection-cnn
-
+### 1. Clone the github repository
+    cd into the directory
+    
 ### 2. Make sure you have the required libraries installed
    - TensorFlow / Keras
    - OpenCV
