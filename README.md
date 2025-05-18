@@ -17,7 +17,8 @@ Dania Fazal (CR-22007)
 
 ## How to run?
 ### 1. Clone the github repository
-    cd into the directory
+    - https://github.com/HafsaAli0310/AIES-CCP-Project.git
+    - cd AIES-CCP-Project
     
 ### 2. Make sure you have the required libraries installed
    - TensorFlow / Keras
@@ -26,8 +27,8 @@ Dania Fazal (CR-22007)
    - scikit-learn
 
 ### 3. In python file, update the following paths:
-    pothole_dir = 'Path to folder of pothole_pics'
-    no_pothole_dir = 'Path to folder of other_pics'
+   - pothole_dir = 'Path to folder of pothole_pics'
+   - no_pothole_dir = 'Path to folder of other_pics'
 
-    Then run:
-    python filename.py
+   - Then run:
+      - python filename.py
