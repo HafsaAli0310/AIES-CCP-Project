@@ -17,8 +17,8 @@ Dania Fazal (CR-22007)
 
 ## How to run?
 ### 1. Clone the github repository
-    - https://github.com/HafsaAli0310/AIES-CCP-Project.git
-    - cd AIES-CCP-Project
+   - https://github.com/HafsaAli0310/AIES-CCP-Project.git
+   - cd AIES-CCP-Project
     
 ### 2. Make sure you have the required libraries installed
    - TensorFlow / Keras
