@@ -29,6 +29,8 @@ Dania Fazal (CR-22007)
 ### 3. In python file, update the following paths:
    - pothole_dir = 'Path to folder of pothole_pics'
    - no_pothole_dir = 'Path to folder of other_pics'
+   - image_path = 'Path to test_image4.jpg'
+   - video_path = 'Path to test_video5.mp4'
 
    - Then run:
       - python filename.py
